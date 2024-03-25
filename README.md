@@ -19,4 +19,9 @@ Brand Designer AI is an AI-powered platform that simplifies the process of creat
 - Competitor Analysis Reports
 - Product Design
 
+## Testing
+The project includes a suite of automated tests to ensure its functionality. To run the tests, use the following command:
+pytest
+
+
 
